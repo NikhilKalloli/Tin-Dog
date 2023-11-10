@@ -34,12 +34,11 @@ Contributions to TinDog are welcome! If you have ideas for new features or impro
 For any inquiries, support or feedback, please reach out me at nikhilkalloli0097@gmail.com
 
 ## 🔗 Links
-## 🔗 Links
 
 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kalloli-a6ab2a25b/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NikhilKalloli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kalloli-a6ab2a25b/)
 
 
 Enjoy connecting your dog with new friends on TinDog! 🐾
