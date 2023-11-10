@@ -24,18 +24,13 @@ TinDog is a modern and stylish web application designed to connect dogs and thei
 - `index.html`: The main HTML file containing the structure of the TinDog website.
 - `styles.css`: The CSS file for styling the website.
 - `images/`: A directory containing images used in the project.
-- `LICENSE`: The license information for the project.
 
 ## Contributing
 
 Contributions to TinDog are welcome! If you have ideas for new features or improvements, please open an issue or submit a pull request.
 
-## License
+## Feedback
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code.
-
-## Contact
-
-For any inquiries or support, please reach out to the TinDog team at [contact@tindog.com](mailto:contact@tindog.com).
+For any inquiries, support or feedback, please reach out me at (mailto:nikhilkalloli0097@gmail.com).
 
 Enjoy connecting your dog with new friends on TinDog! 🐾
