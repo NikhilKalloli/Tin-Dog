@@ -29,9 +29,7 @@ TinDog is a modern and stylish web application designed to connect dogs and thei
 
 Contributions to TinDog are welcome! If you have ideas for new features or improvements, please open an issue or submit a pull request.
 
-## Feedback
 
-For any inquiries, support or feedback, please reach out me at nikhilkalloli0097@gmail.com
 
 ## 🔗 Links
 
@@ -39,6 +37,10 @@ Connect with me:
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NikhilKalloli)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kalloli-a6ab2a25b/)
+
+## Feedback
+
+For any inquiries, support or feedback, please reach out me at nikhilkalloli0097@gmail.com
 
 
 Enjoy connecting your dog with new friends on TinDog! 🐾
