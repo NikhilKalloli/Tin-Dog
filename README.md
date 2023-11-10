@@ -31,6 +31,6 @@ Contributions to TinDog are welcome! If you have ideas for new features or impro
 
 ## Feedback
 
-For any inquiries, support or feedback, please reach out me at (mailto:nikhilkalloli0097@gmail.com).
+For any inquiries, support or feedback, please reach out me at nikhilkalloli0097@gmail.com
 
 Enjoy connecting your dog with new friends on TinDog! 🐾
